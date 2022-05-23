@@ -1,4 +1,4 @@
-package CodingTask;
+package Coding;
 
 public class FreqOfChar {
     public static void main(String[] args) {

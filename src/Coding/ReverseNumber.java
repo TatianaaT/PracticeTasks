@@ -1,4 +1,4 @@
-package CodingTask;
+package Coding;
 
 public class ReverseNumber {
 
